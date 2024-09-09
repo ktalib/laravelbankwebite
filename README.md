@@ -26,5 +26,5 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/laravel-banking-website.git
+   git clone https://github.com/ktalib/laravelbankwebite
    cd laravel-banking-website
